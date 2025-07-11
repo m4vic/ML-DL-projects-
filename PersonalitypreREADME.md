@@ -1,6 +1,7 @@
 # Personality Predictor (Introvert or Extrovert)
 
 A machine learning project that predicts personality type based on user input features. Built and trained using Google Colab.
+here is yt video of this project . https://youtu.be/Jx75dCQ8ypI?si=aVzqJItRV4-pc2bQ
 
 ## 📌 Features
 - Data cleaning & preprocessing
